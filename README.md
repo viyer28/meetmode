@@ -1,5 +1,7 @@
 # meetmode
 
+## demo (tap to see the full video)
+# [![Demo](https://j.gifs.com/p8q696.gif)](https://www.youtube.com/watch?v=bbFmAlYEzBc)
 ## hey 👋 welcome to meetmode!
 ### 1. get started by pulling the repo locally
 ### 2. make sure you have cocoapods
@@ -12,4 +14,4 @@
 #### a. go to 'Pods' project, 'Pods' folder, then 'RIBs' folder
 #### b. open 'Component.swift'
 #### c. on line 27, change the word 'open' to 'public'
-### 8. enjoy! 😊
+### 8. build it on your phone and enjoy! 😊
